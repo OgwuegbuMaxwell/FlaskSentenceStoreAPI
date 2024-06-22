@@ -58,6 +58,11 @@ git clone <repository-url>
 
 
 
+![img1](https://github.com/OgwuegbuMaxwell/FlaskSentenceStoreAPI/assets/53094485/5fc2e834-383b-4e96-999b-0368af1c1573)
+![img2](https://github.com/OgwuegbuMaxwell/FlaskSentenceStoreAPI/assets/53094485/d3449ad4-29d2-48f4-a7e3-a9093edb07c3)
+![img3](https://github.com/OgwuegbuMaxwell/FlaskSentenceStoreAPI/assets/53094485/8a25aed9-7f13-4bba-aec7-a2dcfe2d8b62)
+![img4](https://github.com/OgwuegbuMaxwell/FlaskSentenceStoreAPI/assets/53094485/8ed0eaa4-8b37-4c5f-a887-9cb01b549e20)
+![img5](https://github.com/OgwuegbuMaxwell/FlaskSentenceStoreAPI/assets/53094485/1c533895-9716-43d6-8a68-4b4858cb6b6c)
 
 
 
